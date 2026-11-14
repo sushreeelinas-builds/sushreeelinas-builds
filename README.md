@@ -1,225 +1,192 @@
-# 👋 Hi, I'm Sushree Elina Sahoo
+ <!-- Animated Header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:312E81,100:0891B2&text=Sushree%20Elina%20Sahoo&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20MCA%20Student&descAlignY=58&descSize=17&animation=fadeIn" />
+</p>
 
 <h3 align="center">
-  🚀 Code. Create. Innovate.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Reality+%E2%9C%A8;Always+Learning.+Always+Growing.+%F0%9F%9A%80" alt="Typing Animation" />
 </h3>
 
 <p align="center">
-  <b>MCA Student | Aspiring Software Developer | Full Stack Development & AI/ML Enthusiast</b>
-</p>
-
-<p align="center">
   <a href="https://sushree-elina-sahoo.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sushree-elina-sahoo-038b51358/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sushreeelinas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushreeelinas-builds&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/sushreeelinas-builds?label=Followers&color=3FB950&style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/stars/sushreeelinas-builds?style=flat-square&color=E3B341&label=Stars" />
+  <img src="https://komarev.com/ghpvc/?username=sushreeelinas-builds&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-## ✨ About Me
+## ◈ ABOUT ME
 
-I'm an MCA student and aspiring software developer passionate about building modern digital experiences, solving problems through code, and exploring emerging technologies.
+```yaml
+name: Sushree Elina Sahoo
+education: Master of Computer Applications
+institution: GITAM, Bhubaneswar
+role: Aspiring Software Developer
 
-- 🎓 Currently pursuing **Master of Computer Applications (MCA)**.
-- 💻 Interested in **Full Stack Development, Frontend Engineering, and AI/ML**.
-- 🔭 Currently working on **Pizza Ordering Website**.
-- 🌱 Exploring modern frameworks, advanced JavaScript, and AI-powered applications.
-- 👯 Looking forward to collaborating on innovative development projects.
-- 💬 Ask me about **React.js, JavaScript, Python, Tailwind CSS, Node.js, and Full Stack Development**.
-- 📫 Email: **sushreeelinas@gmail.com**
-- 🌐 Portfolio: [Visit My Website](https://sushree-elina-sahoo.vercel.app/)
-- ⚡ Fun fact: I love turning creative ideas into interactive projects and experimenting with animations and modern UI designs.
+interests:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Science
+
+currently_learning:
+  - Advanced React
+  - Backend Development
+  - Python & Machine Learning
+
+mindset: "Learn. Build. Improve. Repeat."
+```
+
+- 🎓 MCA Student at GITAM, Bhubaneswar.
+- 💻 Interested in building responsive and interactive web applications.
+- 🤖 Exploring AI, ML and intelligent application development.
+- 🚀 Enjoy transforming creative ideas into practical projects.
+- 🤝 Open to internships, collaborations and new opportunities.
 
 ---
 
-## 🧰 Technical Skills & Technologies
+## ◈ TECH STACK
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css&theme=dark" />
 </p>
 
 ### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,framer" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
 </p>
 
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+### Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 </p>
 
-### Data Science & Development Tools
+### Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
+</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,git,github,postman,vscode" />
+### Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## ◈ FEATURED PROJECTS
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🤖 ResuNova AI
+### 🚀 ResuNova AI
+AI-powered resume builder for creating professional resumes.
 
-An AI-powered resume builder that helps users create professional resumes with intelligent content generation and customization.
+**Tech:** React, Tailwind, Node.js, Express, MongoDB, AI API.
 
-**Tech Stack**
-- React.js & Tailwind CSS
-- Node.js & Express.js
-- MongoDB
-- AI API Integration
-
-<p align="center">
-  <a href="https://resu-nova-ai-client.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Explore%20Project-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/sushreeelinas-boop/resume-builder">View Repository →</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🍕 Pizza Ordering Website
+### 🍷 Wine Quality Prediction
+Machine learning model for predicting wine quality using chemical properties.
 
-A responsive pizza ordering interface featuring an interactive menu, shopping experience, delivery location selection, and local storage functionality.
-
-**Tech Stack**
-- HTML5 & Tailwind CSS
-- JavaScript
-- LocalStorage
-- Responsive UI
-
-<p align="center">
-  <a href="https://pizzaorderingwebsite-virid.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Explore%20Project-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+**Tech:** Python, Pandas, NumPy, Scikit-learn.
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🏨 Trivigo Hotel Search UI
+### 🚢 Titanic Survival Prediction
+Data analysis and machine learning to predict passenger survival.
 
-A hotel discovery and search interface with destination exploration, favorites, bookings, and responsive layouts.
-
-**Tech Stack**
-- React.js & Vite
-- Tailwind CSS
-- JavaScript
-- React Router
-
-<p align="center">
-  <a href="https://trivigo-hotel-search-ui.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Explore%20Project-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+**Tech:** Python, Pandas, NumPy, Machine Learning.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📊 Machine Learning Projects
+### 🍕 Pizza Ordering Website
+Responsive pizza ordering interface with interactive features.
 
-Exploring predictive analytics and machine learning through real-world datasets and data analysis.
-
-**Projects**
-- Wine Quality Prediction
-- Titanic Survival Prediction
-
-**Tech Stack**
-- Python
-- Pandas & NumPy
-- Scikit-learn
-- Exploratory Data Analysis
+**Tech:** HTML, Tailwind CSS, JavaScript.
 
 </td>
 </tr>
 </table>
 
+---
+
+## ◈ GITHUB ANALYTICS
+
 <p align="center">
-  <a href="https://github.com/sushreeelinas-builds?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushreeelinas-builds&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sushreeelinas-builds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushreeelinas-builds&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-## 📊 GitHub Overview
+## ◈ CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushreeelinas-builds&theme=github_dark" alt="GitHub Profile Summary" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushreeelinas-builds&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=34D399&area=true&area_color=312E81&hide_border=true&custom_title=My%20Contribution%20Journey" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sushreeelinas-builds&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushreeelinas-builds&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" />
-</p>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushreeelinas-builds&bg_color=0D1117&color=58A6FF&line=3FB950&point=BC8CFF&area=true&area_color=161B22&hide_border=true&custom_title=My%20Contribution%20Activity" alt="GitHub Contribution Graph" />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=sushreeelinas-builds&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF" alt="GitHub Contribution Streak" />
-</p>
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sushreeelinas-builds&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Achievements" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sushreeelinas-builds&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sushreeelinas-builds&theme=github_dark&utcOffset=5.5" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## ◈ GITHUB TROPHIES
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sushreeelinas-builds&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
+</p>
+
+---
+
+## ◈ CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/sushreeelinas-builds">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/sushree-elina-sahoo-038b51358/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://sushree-elina-sahoo.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel" />
   </a>
   <a href="mailto:sushreeelinas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
----
+<h3 align="center">
+  ✨ Code with Purpose. Build with Passion. Grow with Curiosity. ✨
+</h3>
 
 <p align="center">
-  <i>"Great things are built one line of code at a time."</i>
-</p>
-
-<h3 align="center">Thanks for visiting my GitHub profile! 💜</h3>
-
-<p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:0D1117&height=120&section=footer" />
 </p>
