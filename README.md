@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Sushree Elina Sahoo
 
-<h3 align="center">🚀 Code. Create. Innovate.</h3>
+<h3 align="center">
+  🚀 Code. Create. Innovate.
+</h3>
 
 <p align="center">
   <b>MCA Student | Aspiring Software Developer | Full Stack Development & AI/ML Enthusiast</b>
@@ -8,58 +10,64 @@
 
 <p align="center">
   <a href="https://sushree-elina-sahoo.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sushree-elina-sahoo-038b51358/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sushreeelinas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushreeelinas-builds&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sushreeelinas-builds?label=Followers&style=flat-square&color=06B6D4" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=sushreeelinas-builds&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/sushreeelinas-builds?label=Followers&color=3FB950&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/stars/sushreeelinas-builds?style=flat-square&color=E3B341&label=Stars" />
 </p>
 
 ---
 
-## 💫 About Me
+## ✨ About Me
+
+I'm an MCA student and aspiring software developer passionate about building modern digital experiences, solving problems through code, and exploring emerging technologies.
 
 - 🎓 Currently pursuing **Master of Computer Applications (MCA)**.
-- 💻 Passionate about building modern, responsive, and interactive web applications.
+- 💻 Interested in **Full Stack Development, Frontend Engineering, and AI/ML**.
 - 🔭 Currently working on **Pizza Ordering Website**.
-- 🌱 Exploring modern frameworks, Full Stack Development, and AI/ML technologies.
-- 👯 Looking to collaborate on exciting web development projects.
-- 🤝 Always open to learning, teamwork, and new opportunities.
+- 🌱 Exploring modern frameworks, advanced JavaScript, and AI-powered applications.
+- 👯 Looking forward to collaborating on innovative development projects.
 - 💬 Ask me about **React.js, JavaScript, Python, Tailwind CSS, Node.js, and Full Stack Development**.
-- 📫 Reach me at **sushreeelinas@gmail.com**.
-- 🌐 Explore my portfolio: [sushree-elina-sahoo.vercel.app](https://sushree-elina-sahoo.vercel.app/)
-- ⚡ Fun fact: I love turning creative ideas into interactive projects, experimenting with animations, and learning something new with every line of code!
+- 📫 Email: **sushreeelinas@gmail.com**
+- 🌐 Portfolio: [Visit My Website](https://sushree-elina-sahoo.vercel.app/)
+- ⚡ Fun fact: I love turning creative ideas into interactive projects and experimenting with animations and modern UI designs.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧰 Technical Skills & Technologies
 
 ### Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
 ### Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,vite,framer" />
 </p>
 
-### Backend & Database
+### Backend & Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### Data Science & Tools
+### Data Science & Development Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,git,github,postman,vscode" />
 </p>
 
 ---
@@ -67,110 +75,127 @@
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 ResuNova AI</h3>
-      <p align="center">
-        <a href="https://resu-nova-ai-client.vercel.app/">
-          <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-8B5CF6?style=for-the-badge" />
-        </a>
-      </p>
-      <p>An AI-powered resume builder designed to help users create professional resumes with intelligent suggestions and resume generation.</p>
-      <p><b>Tech:</b> React, Vite, Tailwind CSS, Node.js, Express, MongoDB, AI API</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🍕 Pizza Ordering Website</h3>
-      <p align="center">
-        <a href="https://pizzaorderingwebsite-virid.vercel.app/">
-          <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-06B6D4?style=for-the-badge" />
-        </a>
-      </p>
-      <p>A responsive pizza ordering interface with an interactive menu, cart experience, and location-based delivery interface.</p>
-      <p><b>Tech:</b> HTML, Tailwind CSS, JavaScript, LocalStorage</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏨 Trivigo Hotel Search UI</h3>
-      <p align="center">
-        <a href="https://trivigo-hotel-search-ui.vercel.app/">
-          <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-10B981?style=for-the-badge" />
-        </a>
-      </p>
-      <p>A hotel discovery and search interface featuring destination exploration, favorites, bookings, and responsive layouts.</p>
-      <p><b>Tech:</b> React, Vite, Tailwind CSS, JavaScript</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Machine Learning Projects</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      </p>
-      <p>Exploring predictive analytics and machine learning through Wine Quality Prediction and Titanic Survival Prediction.</p>
-      <p><b>Tech:</b> Python, Pandas, NumPy, Scikit-learn</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 ResuNova AI
+
+An AI-powered resume builder that helps users create professional resumes with intelligent content generation and customization.
+
+**Tech Stack**
+- React.js & Tailwind CSS
+- Node.js & Express.js
+- MongoDB
+- AI API Integration
+
+<p align="center">
+  <a href="https://resu-nova-ai-client.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Explore%20Project-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🍕 Pizza Ordering Website
+
+A responsive pizza ordering interface featuring an interactive menu, shopping experience, delivery location selection, and local storage functionality.
+
+**Tech Stack**
+- HTML5 & Tailwind CSS
+- JavaScript
+- LocalStorage
+- Responsive UI
+
+<p align="center">
+  <a href="https://pizzaorderingwebsite-virid.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Explore%20Project-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 Trivigo Hotel Search UI
+
+A hotel discovery and search interface with destination exploration, favorites, bookings, and responsive layouts.
+
+**Tech Stack**
+- React.js & Vite
+- Tailwind CSS
+- JavaScript
+- React Router
+
+<p align="center">
+  <a href="https://trivigo-hotel-search-ui.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Explore%20Project-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Machine Learning Projects
+
+Exploring predictive analytics and machine learning through real-world datasets and data analysis.
+
+**Projects**
+- Wine Quality Prediction
+- Titanic Survival Prediction
+
+**Tech Stack**
+- Python
+- Pandas & NumPy
+- Scikit-learn
+- Exploratory Data Analysis
+
+</td>
+</tr>
 </table>
 
----
-
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sushreeelinas-builds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushreeelinas-builds&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=sushreeelinas-builds&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-### 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushreeelinas-builds&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+  <a href="https://github.com/sushreeelinas-builds?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sushreeelinas-builds&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushreeelinas-builds&theme=github_dark" alt="GitHub Profile Overview" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushreeelinas-builds&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sushreeelinas-builds&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushreeelinas-builds&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushreeelinas-builds&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" />
 </p>
 
-### Contribution Activity
+### 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushreeelinas-builds&bg_color=0D1117&color=58A6FF&line=3FB950&point=BC8CFF&area=true&area_color=161B22&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushreeelinas-builds&bg_color=0D1117&color=58A6FF&line=3FB950&point=BC8CFF&area=true&area_color=161B22&hide_border=true&custom_title=My%20Contribution%20Activity" alt="GitHub Contribution Graph" />
 </p>
 
-### Consistency & Achievements
+### 🔥 Contribution Streak
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=sushreeelinas-builds&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF" alt="Contribution Streak" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sushreeelinas-builds&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=sushreeelinas-builds&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF" alt="GitHub Contribution Streak" />
 </p>
 
-### GitHub Achievements
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sushreeelinas-builds&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sushreeelinas-builds&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Achievements" />
 </p>
 
+---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://github.com/sushreeelinas-builds">
@@ -190,9 +215,11 @@
 ---
 
 <p align="center">
-  <b>✨ "Great things are built one line of code at a time."</b>
+  <i>"Great things are built one line of code at a time."</i>
 </p>
 
+<h3 align="center">Thanks for visiting my GitHub profile! 💜</h3>
+
 <p align="center">
-  Thanks for visiting my profile! 💜
+  ⭐ Feel free to explore my repositories and connect with me!
 </p>
