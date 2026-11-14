@@ -151,10 +151,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushreeelinas-builds&theme=tokyonight" width="32%" alt="GitHub Stats" />
 </p>
 
-### 📈 Contribution Activity
+Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushreeelinas-builds&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" width="100%" alt="Contribution Activity" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushreeelinas-builds&bg_color=0D1117&color=58A6FF&line=3FB950&point=BC8CFF&area=true&area_color=161B22&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
 </p>
 
 
