@@ -124,12 +124,6 @@
   <img width="65%" src="https://streak-stats.demolab.com?user=sushreeelinas-builds&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sushreeelinas-builds&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 ### 📈 Contribution Activity Graph
 
 <p align="center">
@@ -137,6 +131,14 @@
 </p>
 
 ---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sushreeelinas-builds&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+
 ## 📌 GitHub Overview
 
 <p align="center">
@@ -155,11 +157,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushreeelinas-builds&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" width="100%" alt="Contribution Activity" />
 </p>
 
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sushreeelinas-builds&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak" />
-</p>
 
 ## 🌐 Connect With Me
 
