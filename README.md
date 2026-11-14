@@ -137,6 +137,29 @@
 </p>
 
 ---
+## 📌 GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushreeelinas-builds&theme=tokyonight" width="100%" alt="GitHub Profile Overview" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushreeelinas-builds&theme=tokyonight" width="32%" alt="Repositories by Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushreeelinas-builds&theme=tokyonight" width="32%" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushreeelinas-builds&theme=tokyonight" width="32%" alt="GitHub Stats" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushreeelinas-builds&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" width="100%" alt="Contribution Activity" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sushreeelinas-builds&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak" />
+</p>
 
 ## 🌐 Connect With Me
 
