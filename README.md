@@ -139,22 +139,34 @@
 </p>
 
 
-## 📌 GitHub Overview
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushreeelinas-builds&theme=tokyonight" width="100%" alt="GitHub Profile Overview" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushreeelinas-builds&theme=github_dark" alt="GitHub Profile Overview" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushreeelinas-builds&theme=tokyonight" width="32%" alt="Repositories by Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushreeelinas-builds&theme=tokyonight" width="32%" alt="Most Used Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushreeelinas-builds&theme=tokyonight" width="32%" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sushreeelinas-builds&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushreeelinas-builds&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </p>
 
-Contribution Activity
+### Contribution Activity
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushreeelinas-builds&bg_color=0D1117&color=58A6FF&line=3FB950&point=BC8CFF&area=true&area_color=161B22&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+</p>
+
+### Consistency & Achievements
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=sushreeelinas-builds&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF" alt="Contribution Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sushreeelinas-builds&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+### GitHub Achievements
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sushreeelinas-builds&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 </p>
 
 
