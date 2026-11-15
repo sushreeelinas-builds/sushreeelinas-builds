@@ -9,16 +9,19 @@
 
 <p align="center">
   <a href="https://github.com/sushreeelinas-builds">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sushree-elina-sahoo-038b51358/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://sushree-elina-sahoo.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="42" alt="Portfolio"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:sushreeelinas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email"/>
   </a>
 </p>
 
@@ -102,26 +105,6 @@
 </tr>
 </table>
 
-<!-- CURRENTLY EXPLORING -->
-<h2 align="center">🎯 CURRENTLY EXPLORING</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=550&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%92%A1;Growing+One+Project+At+A+Time+%E2%9C%A8" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React.js-Advanced%20Concepts-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-Backend%20Development-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-API%20Development-FFFFFF?style=flat-square&logo=express&logoColor=black" />
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-Machine%20Learning-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scalable%20Apps-Architecture-0891B2?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:3B82F6,100:06B6D4" width="80%" />
-</p>
-
 
 ## 🛠️ TECHNICAL SKILLS
 
@@ -163,9 +146,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;Creating+Projects+That+Make+An+Impact+%E2%9C%A8;Code+%7C+Create+%7C+Innovate+%F0%9F%92%BB" />
 </p>
 
-<p align="center"><i>Turning concepts into real-world applications through code and creativity.</i></p>
+<p align="center">
+  <i>Turning concepts into real-world applications through code and creativity.</i>
+</p>
 
-<table width="100%" align="center" cellpadding="2" cellspacing="0">
+<table width="100%" align="center" cellpadding="8" cellspacing="0">
 <tr>
 
 <!-- PROJECT 01 -->
@@ -178,20 +163,30 @@ AI-powered resume builder with intelligent assistance and personalized content g
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/FEATURE-AI%20POWERED-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20POWERED-7C3AED?style=for-the-badge"/>
+</p>
+
+<h4 align="center">⚡ TECHNOLOGIES</h4>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35" alt="React"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" height="35" alt="Tailwind CSS"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35" alt="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" height="35" alt="Express"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35" alt="MongoDB"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-
-<p align="center">
-<a href="https://resu-nova-ai-client.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/sushreeelinas-boop/resume-builder"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://resu-nova-ai-client.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/sushreeelinas-boop/resume-builder">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 </td>
@@ -206,18 +201,26 @@ Responsive food-ordering website with an interactive menu, modern interface and 
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/FEATURE-RESPONSIVE%20WEB-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RESPONSIVE%20WEB-2563EB?style=for-the-badge"/>
+</p>
+
+<h4 align="center">⚡ TECHNOLOGIES</h4>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" height="35" alt="Tailwind CSS"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-<a href="https://pizzaorderingwebsite-virid.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/sushreeelinas-builds/Pizza_Ordering_Website"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://pizzaorderingwebsite-virid.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/sushreeelinas-builds/Pizza_Ordering_Website">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 </td>
@@ -235,19 +238,28 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/FEATURE-HOTEL%20DISCOVERY-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HOTEL%20DISCOVERY-0891B2?style=for-the-badge"/>
+</p>
+
+<h4 align="center">⚡ TECHNOLOGIES</h4>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35" alt="React"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" height="35" alt="Tailwind CSS"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="35" height="35" alt="Vite"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-</p>
-
-<p align="center">
-<a href="https://trivigo-hotel-search-ui.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/sushreeelinas-builds/Trivigo-Hotel-Search-UI"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://trivigo-hotel-search-ui.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/sushreeelinas-builds/Trivigo-Hotel-Search-UI">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 </td>
@@ -258,6 +270,8 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 <h3>✨ MORE PROJECTS COMING SOON</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=350&lines=Always+Building+Something+New;Learning+Through+Projects;Innovating+With+Code+%F0%9F%9A%80"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge-STATUS-EXPLORING%20NEW%20IDEAS-2563EB?style=for-the-badge"/>
 
@@ -270,35 +284,104 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 </p>
 
 
-## 📊 GITHUB ANALYTICS
+
+
+<!-- GITHUB ANALYTICS -->
+
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushreeelinas-builds&theme=tokyonight" alt="GitHub Profile Details"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=My+Coding+Journey+%F0%9F%9A%80;Consistency+Creates+Progress+%E2%9C%A8;Turning+Code+Into+Impact+%F0%9F%92%BB" alt="Animated Heading"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushreeelinas-builds&theme=tokyonight" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sushreeelinas-builds&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:3B82F6,100:22C55E" width="100%"/>
+</p>
+
+<!-- PROFILE DETAILS -->
+
+
+<!-- CONTRIBUTION OVERVIEW -->
+
+<h3 align="center">✦ CONTRIBUTION OVERVIEW</h3>
+
+<p align="center">
+  <img
+    width="96%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushreeelinas-builds&theme=github_dark"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushreeelinas-builds&theme=tokyonight" alt="Repositories by Language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushreeelinas-builds&theme=tokyonight" alt="Most Used Languages"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1F4D,50:2563EB,100:60A5FA"
+    width="96%"
+  />
 </p>
 
-### 🔥 Contribution Streak
+
+
+<!-- GITHUB ANALYTICS CARDS -->
+
+<h3 align="center">✦ DEVELOPER STATISTICS</h3>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=sushreeelinas-builds&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=380&lines=My+Coding+Journey+%F0%9F%9A%80;Every+Commit+Matters+%E2%9C%A8"
+    alt="Animated Statistics"
+  />
 </p>
 
-### 📅 Contribution Activity
+<!-- ROW 1 -->
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushreeelinas-builds&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushreeelinas-builds&theme=github_dark" alt="GitHub Statistics"/>
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sushreeelinas-builds&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
 </p>
 
----
+<!-- DIVIDER -->
+
+<p align="center">
+  <img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1F4D,50:2563EB,100:60A5FA"/>
+</p>
+
+<!-- ROW 2 -->
+
+<p align="center">
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushreeelinas-builds&theme=github_dark" alt="Repositories by Language"/>
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushreeelinas-builds&theme=github_dark" alt="Most Used Languages"/>
+</p>
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img width="75%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1F4D,50:2563EB,100:8B5CF6"/>
+</p>
+
+
+
+<!-- CONTRIBUTION STREAK -->
+
+<h3 align="center">🔥 CONTRIBUTION STREAK</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=400&lines=Consistency+Builds+Greatness+%F0%9F%9A%80;Keep+Coding.+Keep+Growing."
+  alt="Animated Streak Heading"/>
+</p>
+
+<p align="center">
+  <img
+    width="55%"
+    src="https://streak-stats.demolab.com?user=sushreeelinas-builds&theme=transparent&hide_border=true&background=050B1D&ring=2563EB&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img width="75%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1F4D,50:2563EB,100:8B5CF6"/>
+</p>
+
 
 ## 🏆 GITHUB ACHIEVEMENTS
 
@@ -308,32 +391,69 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 
 ---
 
-## 🌐 CONNECT WITH ME
+
+<!-- CONNECT WITH ME -->
+
+<h2 align="center">🌐 CONNECT WITH ME</h2>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=500&lines=Let's+Connect+And+Create+Something+Amazing+%E2%9C%A8;Open+To+Opportunities+And+Collaboration+%F0%9F%9A%80"
+    alt="Animated Connect Heading"
+  />
+</p>
 
 <p align="center">
   <i>Have an idea, opportunity or project? Let's connect!</i>
 </p>
 
+<!-- SOCIAL ICONS -->
+
 <p align="center">
+
   <a href="https://github.com/sushreeelinas-builds">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sushree-elina-sahoo-038b51358/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://sushree-elina-sahoo.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="42" alt="Portfolio"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:sushreeelinas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email"/>
   </a>
+
+</p>
+
+<!-- ANIMATED DIVIDER -->
+
+<p align="center">
+  <img
+    width="75%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1F4D,50:2563EB,100:8B5CF6"
+  />
+</p>
+
+<!-- PROFILE VIEWS -->
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=sushreeelinas-builds&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushreeelinas-builds&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=400&lines=Code+%7C+Create+%7C+Connect+%F0%9F%92%BB;Thanks+For+Visiting+My+Profile+%E2%9C%A8"
+    alt="Animated Footer"
+  />
 </p>
 
----
 
 <h3 align="center">
   ✨ Code with Purpose. Build with Passion. Grow with Curiosity. ✨
