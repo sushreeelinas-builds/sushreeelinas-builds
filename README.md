@@ -106,36 +106,71 @@
 </table>
 
 
-## 🛠️ TECHNICAL SKILLS
+<!-- ================= TECHNICAL SKILLS ================= -->
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+
+<h2 align="center">⚡ TECHNICAL SKILLS</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=450&lines=Programming+Languages;Frontend+Development;Backend+%26+Database;Development+Tools;Data+Science+%26+Libraries" />
 </p>
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+
+</td>
+<td align="center" width="50%">
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django&theme=dark" />
+</td>
+<td align="center" width="50%">
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,cloudflare&theme=dark" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3 align="center">📊 Data Science & Machine Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4ade80,50:a78bfa,100:ec4899&height=2&section=footer" width="85%" />
 </p>
 
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<p align="center">
+  <b>⚡ Code • Create • Innovate</b>
 </p>
 
-### Data Science & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
-
----
 
 
 <!-- FEATURED PROJECTS -->
