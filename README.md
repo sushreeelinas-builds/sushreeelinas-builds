@@ -418,14 +418,6 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 </p>
 
 
-## 🏆 GITHUB ACHIEVEMENTS
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sushreeelinas-builds&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
-
 
 <!-- CONNECT WITH ME -->
 
@@ -474,13 +466,6 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 </p>
 
 <!-- PROFILE VIEWS -->
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sushreeelinas-builds&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"
-    alt="Profile Views"
-  />
-</p>
 
 <p align="center">
   <img
