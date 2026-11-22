@@ -107,26 +107,20 @@
 
 
 <!-- ================= TECHNICAL SKILLS ================= -->
-
-
 <h2 align="center">⚡ TECHNICAL SKILLS</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=450&lines=Programming+Languages;Frontend+Development;Backend+%26+Database;Development+Tools;Data+Science+%26+Libraries" />
-</p>
 
 <br/>
 
-<table align="center">
+<table align="center" width="95%" style="border: 2px solid #D4AF37; border-radius: 12px; border-collapse: separate; border-spacing: 0; background-color: #0D1117;">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" style="border: 1px solid #D4AF37; padding: 20px;">
 
 ### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" style="border: 1px solid #D4AF37; padding: 20px;">
 
 ### 🎨 Frontend Development
 
@@ -136,17 +130,19 @@
 </tr>
 
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" style="border: 1px solid #D4AF37; padding: 20px;">
 
 ### ⚙️ Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django&theme=dark" />
+
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" style="border: 1px solid #D4AF37; padding: 20px;">
 
 ### 🛠️ Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,cloudflare&theme=dark" />
+
 </td>
 </tr>
 </table>
@@ -338,11 +334,11 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 
 <!-- CONTRIBUTION OVERVIEW -->
 
-<h3 align="center">✦ CONTRIBUTION OVERVIEW</h3>
+<h3 align="center">✦ CONTRIBUTION OVERVIEW ✦</h3>
 
 <p align="center">
   <img
-    width="96%"
+    width="78%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushreeelinas-builds&theme=github_dark"
     alt="GitHub Contribution Graph"
   />
@@ -350,8 +346,8 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1F4D,50:2563EB,100:60A5FA"
-    width="96%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D4AF37"
+    width="50%"
   />
 </p>
 
@@ -359,42 +355,41 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 
 <!-- GITHUB ANALYTICS CARDS -->
 
-<h3 align="center">✦ DEVELOPER STATISTICS</h3>
+<h3 align="center">✦ DEVELOPER STATISTICS ✦</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=380&lines=My+Coding+Journey+%F0%9F%9A%80;Every+Commit+Matters+%E2%9C%A8"
-    alt="Animated Statistics"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D4AF37" width="60%" />
+</p>
+
+<p align="center">
+  <strong>✨ MY CODING JOURNEY | EVERY COMMIT MATTERS ✨</strong>
 </p>
 
 <!-- ROW 1 -->
 
 <p align="center">
-  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushreeelinas-builds&theme=github_dark" alt="GitHub Statistics"/>
-  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sushreeelinas-builds&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushreeelinas-builds&theme=github_dark" alt="GitHub Statistics"/>
+  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sushreeelinas-builds&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
 </p>
 
-<!-- DIVIDER -->
+<!-- GOLDEN DIVIDER -->
 
 <p align="center">
-  <img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1F4D,50:2563EB,100:60A5FA"/>
+  <img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D4AF37"/>
 </p>
 
 <!-- ROW 2 -->
 
 <p align="center">
-  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushreeelinas-builds&theme=github_dark" alt="Repositories by Language"/>
-  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushreeelinas-builds&theme=github_dark" alt="Most Used Languages"/>
+  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushreeelinas-builds&theme=github_dark" alt="Repositories by Language"/>
+  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushreeelinas-builds&theme=github_dark" alt="Most Used Languages"/>
 </p>
 
 <!-- FOOTER -->
 
 <p align="center">
-  <img width="75%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1F4D,50:2563EB,100:8B5CF6"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D4AF37" width="60%" />
 </p>
-
-
 
 <!-- CONTRIBUTION STREAK -->
 
