@@ -109,6 +109,9 @@
 <!-- ================= TECHNICAL SKILLS ================= -->
 <h2 align="center">⚡ TECHNICAL SKILLS</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&height=30&lines=Turning+Skills+Into+Solutions+%F0%9F%9A%80;Learning+%2C+Building+%26+Growing+Every+Day+%E2%9C%A8;Exploring+Technologies+Through+Innovation+%F0%9F%92%BB" />
+</p>
 <br/>
 
 <table align="center" width="95%" style="border: 2px solid #D4AF37; border-radius: 12px; border-collapse: separate; border-spacing: 0; background-color: #0D1117;">
