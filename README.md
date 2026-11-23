@@ -1,31 +1,24 @@
- <!-- Animated Header -->
+<!-- PROFILE HEADER -->
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080zB16,45:312E81,100:0891B2&text=SUSHREE%20ELINA%20SAHOO&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20MCA%20STUDENT&descAlignY=57&descSize=16&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:090014,50:3B0764,100:BE185D&text=SUSHREE%20ELINA%20SAHOO&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20MCA%20STUDENT&descAlignY=60&descSize=16&animation=fadeIn"/>
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;Full+Stack+Development+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learn.+Build.+Innovate.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1000&color=F0ABFC&center=true&vCenter=true&width=650&lines=Welcome+To+My+Creative+Space+%E2%9C%A8;Building+Digital+Experiences+%F0%9F%9A%80;Code+%7C+Create+%7C+Innovate"/>
 </h3>
 
 <p align="center">
   <a href="https://github.com/sushreeelinas-builds">
-    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-1A1025?style=for-the-badge&logo=github&logoColor=F0ABFC"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sushree-elina-sahoo-038b51358/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-1A1025?style=for-the-badge&logo=linkedin&logoColor=F0ABFC"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://sushree-elina-sahoo.vercel.app/">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="42" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:sushreeelinas@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-1A1025?style=for-the-badge&logo=vercel&logoColor=F0ABFC"/>
   </a>
 </p>
-
----
 
 
 <!-- ANIMATED INTRODUCTION -->
