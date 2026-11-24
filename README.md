@@ -470,6 +470,13 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
   ✨ Code with Purpose. Build with Passion. Grow with Curiosity. ✨
 </h3>
 
+
+<!-- ANIMATED PROFILE FOOTER -->
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:080B16&height=120&section=footer" alt="Footer"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:090014,50:3B0764,100:BE185D&animation=fadeIn"
+    alt="Animated Footer"
+  />
 </p>
