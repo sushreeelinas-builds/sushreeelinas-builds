@@ -383,8 +383,9 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 </p>
 
 <p align="center">
-  <strong>✨ MY CODING JOURNEY | EVERY COMMIT MATTERS ✨</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=1000&color=F0ABFC&center=true&vCenter=true&width=650&lines=%E2%9C%A8+MY+CODING+JOURNEY+%7C+EVERY+COMMIT+MATTERS+%E2%9C%A8;Building+Consistency+Through+Code;Learning+%7C+Creating+%7C+Growing;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Animated Developer Statistics" />
 </p>
+
 
 
 <!-- ROW 1 -->
