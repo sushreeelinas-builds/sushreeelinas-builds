@@ -338,16 +338,17 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 
 
 
-<!-- GITHUB ANALYTICS -->
+
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=My+Coding+Journey+%F0%9F%9A%80;Consistency+Creates+Progress+%E2%9C%A8;Turning+Code+Into+Impact+%F0%9F%92%BB" alt="Animated Heading"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=1000&color=F0ABFC&center=true&vCenter=true&width=600&lines=My+Coding+Journey+%F0%9F%9A%80;Consistency+Creates+Progress+%E2%9C%A8;Turning+Code+Into+Impact+%F0%9F%92%BB" alt="Animated Heading"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:3B82F6,100:22C55E" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090014,30:3B0764,65:BE185D,100:F0ABFC" width="100%"/>
 </p>
 
 <!-- PROFILE DETAILS -->
