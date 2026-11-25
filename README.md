@@ -182,12 +182,13 @@
 
 
 
-<!-- FEATURED PROJECTS -->
+
+<!-- ================= FEATURED PROJECTS ================= -->
 
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;Creating+Projects+That+Make+An+Impact+%E2%9C%A8;Code+%7C+Create+%7C+Innovate+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=F0ABFC&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;Creating+Projects+That+Make+An+Impact+%E2%9C%A8;Code+%7C+Create+%7C+Innovate+%F0%9F%92%BB" />
 </p>
 
 <p align="center">
@@ -207,7 +208,7 @@ AI-powered resume builder with intelligent assistance and personalized content g
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/AI%20POWERED-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20POWERED-1A1025?style=for-the-badge&labelColor=3B0764"/>
 </p>
 
 <h4 align="center">⚡ TECHNOLOGIES</h4>
@@ -226,10 +227,10 @@ AI-powered resume builder with intelligent assistance and personalized content g
 
 <p align="center">
 <a href="https://resu-nova-ai-client.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-1A1025?style=for-the-badge&logo=vercel&logoColor=F0ABFC&labelColor=6B21A8"/>
 </a>
 <a href="https://github.com/sushreeelinas-boop/resume-builder">
-<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-1A1025?style=for-the-badge&logo=github&logoColor=F0ABFC&labelColor=3B0764"/>
 </a>
 </p>
 
@@ -245,7 +246,7 @@ Responsive food-ordering website with an interactive menu, modern interface and 
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/RESPONSIVE%20WEB-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RESPONSIVE%20WEB-1A1025?style=for-the-badge&labelColor=BE185D"/>
 </p>
 
 <h4 align="center">⚡ TECHNOLOGIES</h4>
@@ -260,10 +261,10 @@ Responsive food-ordering website with an interactive menu, modern interface and 
 
 <p align="center">
 <a href="https://pizzaorderingwebsite-virid.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-1A1025?style=for-the-badge&logo=vercel&logoColor=F0ABFC&labelColor=6B21A8"/>
 </a>
 <a href="https://github.com/sushreeelinas-builds/Pizza_Ordering_Website">
-<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-1A1025?style=for-the-badge&logo=github&logoColor=F0ABFC&labelColor=3B0764"/>
 </a>
 </p>
 
@@ -282,7 +283,7 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HOTEL%20DISCOVERY-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HOTEL%20DISCOVERY-1A1025?style=for-the-badge&labelColor=BE185D"/>
 </p>
 
 <h4 align="center">⚡ TECHNOLOGIES</h4>
@@ -299,10 +300,10 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 
 <p align="center">
 <a href="https://trivigo-hotel-search-ui.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-1A1025?style=for-the-badge&logo=vercel&logoColor=F0ABFC&labelColor=6B21A8"/>
 </a>
 <a href="https://github.com/sushreeelinas-builds/Trivigo-Hotel-Search-UI">
-<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-1A1025?style=for-the-badge&logo=github&logoColor=F0ABFC&labelColor=3B0764"/>
 </a>
 </p>
 
@@ -313,19 +314,26 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 
 <h3>✨ MORE PROJECTS COMING SOON</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=350&lines=Always+Building+Something+New;Learning+Through+Projects;Innovating+With+Code+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=900&color=F0ABFC&center=true&vCenter=true&width=350&lines=Always+Building+Something+New;Learning+Through+Projects;Innovating+With+Code+%F0%9F%9A%80"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge-STATUS-EXPLORING%20NEW%20IDEAS-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-EXPLORING%20NEW%20IDEAS-1A1025?style=for-the-badge&labelColor=BE185D"/>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:3B82F6,100:06B6D4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090014,30:3B0764,65:BE185D,100:F0ABFC" width="100%"/>
 </p>
+
+<p align="center">
+  <b>⚡ BUILD • CREATE • INNOVATE</b>
+</p>
+
 
 
 
