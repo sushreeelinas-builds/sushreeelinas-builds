@@ -354,24 +354,23 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 <!-- PROFILE DETAILS -->
 
 
-<!-- CONTRIBUTION OVERVIEW -->
-
 <h3 align="center">✦ CONTRIBUTION OVERVIEW ✦</h3>
 
 <p align="center">
   <img
     width="78%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushreeelinas-builds&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushreeelinas-builds&theme=tokyonight"
     alt="GitHub Contribution Graph"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D4AF37"
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090014,30:3B0764,65:BE185D,100:F0ABFC"
     width="50%"
   />
 </p>
+
 
 
 
