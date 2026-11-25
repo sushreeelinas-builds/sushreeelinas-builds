@@ -29,14 +29,16 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer+%F0%9F%9A%80;Full+Stack+Development+Enthusiast+%F0%9F%92%BB;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;MCA+Student+at+GITAM+%F0%9F%8E%93"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=F0ABFC&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer+%F0%9F%9A%80;Full+Stack+Development+Enthusiast+%F0%9F%92%BB;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;MCA+Student+at+GITAM+%F0%9F%8E%93"
     alt="Animated introduction"
   />
 </p>
 
 <p align="center">
   <b>
-    Aspiring Software Developer | Full Stack Development | AI & ML Enthusiast
+    <font color="#F0ABFC">
+      Aspiring Software Developer | Full Stack Development | AI & ML Enthusiast
+    </font>
   </b>
 </p>
 
@@ -52,16 +54,17 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:3B82F6,100:06B6D4"
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090014,30:3B0764,65:BE185D,100:F0ABFC"
     width="75%"
   />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Currently%20Learning-Full%20Stack-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Interest-AI%20%26%20ML-0891B2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FOCUS-Software%20Development-1A1025?style=flat-square&labelColor=3B0764&color=1A1025"/>
+  <img src="https://img.shields.io/badge/LEARNING-Full%20Stack-1A1025?style=flat-square&labelColor=6B21A8&color=1A1025"/>
+  <img src="https://img.shields.io/badge/INTEREST-AI%20%26%20ML-1A1025?style=flat-square&labelColor=BE185D&color=1A1025"/>
 </p>
+
 
 
 <!-- WHAT I DO -->
