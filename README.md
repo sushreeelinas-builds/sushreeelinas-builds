@@ -379,12 +379,13 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 <h3 align="center">✦ DEVELOPER STATISTICS ✦</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D4AF37" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:090014,30:3B0764,65:BE185D,100:F0ABFC" width="60%" />
 </p>
 
 <p align="center">
   <strong>✨ MY CODING JOURNEY | EVERY COMMIT MATTERS ✨</strong>
 </p>
+
 
 <!-- ROW 1 -->
 
