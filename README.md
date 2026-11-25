@@ -109,24 +109,29 @@
 
 
 
+
 <!-- ================= TECHNICAL SKILLS ================= -->
+
 <h2 align="center">⚡ TECHNICAL SKILLS</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&height=30&lines=Turning+Skills+Into+Solutions+%F0%9F%9A%80;Learning+%2C+Building+%26+Growing+Every+Day+%E2%9C%A8;Exploring+Technologies+Through+Innovation+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=900&color=F0ABFC&center=true&vCenter=true&width=650&height=30&lines=Turning+Skills+Into+Solutions+%F0%9F%9A%80;Learning+%2C+Building+%26+Growing+Every+Day+%E2%9C%A8;Exploring+Technologies+Through+Innovation+%F0%9F%92%BB" />
 </p>
+
 <br/>
 
-<table align="center" width="95%" style="border: 2px solid #D4AF37; border-radius: 12px; border-collapse: separate; border-spacing: 0; background-color: #0D1117;">
+<table align="center" width="95%" style="border: 2px solid #BE185D; border-radius: 12px; border-collapse: separate; border-spacing: 0; background-color: #1A1025;">
+
 <tr>
-<td align="center" width="50%" style="border: 1px solid #D4AF37; padding: 20px;">
+<td align="center" width="50%" style="border: 1px solid #3B0764; padding: 20px;">
 
 ### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 
 </td>
-<td align="center" width="50%" style="border: 1px solid #D4AF37; padding: 20px;">
+
+<td align="center" width="50%" style="border: 1px solid #3B0764; padding: 20px;">
 
 ### 🎨 Frontend Development
 
@@ -136,14 +141,15 @@
 </tr>
 
 <tr>
-<td align="center" width="50%" style="border: 1px solid #D4AF37; padding: 20px;">
+<td align="center" width="50%" style="border: 1px solid #3B0764; padding: 20px;">
 
 ### ⚙️ Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django&theme=dark" />
 
 </td>
-<td align="center" width="50%" style="border: 1px solid #D4AF37; padding: 20px;">
+
+<td align="center" width="50%" style="border: 1px solid #3B0764; padding: 20px;">
 
 ### 🛠️ Development Tools
 
@@ -158,20 +164,21 @@
 <h3 align="center">📊 Data Science & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-1A1025?style=for-the-badge&logo=pandas&logoColor=F0ABFC&labelColor=3B0764" />
+  <img src="https://img.shields.io/badge/NumPy-1A1025?style=for-the-badge&logo=numpy&logoColor=F0ABFC&labelColor=6B21A8" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-1A1025?style=for-the-badge&logo=scikitlearn&logoColor=F0ABFC&labelColor=BE185D" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4ade80,50:a78bfa,100:ec4899&height=2&section=footer" width="85%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090014,30:3B0764,65:BE185D,100:F0ABFC&height=3&section=footer" width="85%" />
 </p>
 
 <p align="center">
   <b>⚡ Code • Create • Innovate</b>
 </p>
+
 
 
 
