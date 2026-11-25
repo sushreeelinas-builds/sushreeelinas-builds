@@ -67,11 +67,13 @@
 
 
 
+
 <!-- WHAT I DO -->
+
 <h2 align="center">💻 WHAT I DO</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Digital+Solutions+%F0%9F%9A%80;Building+Modern+Web+Applications+%F0%9F%92%BB;Creating+Smart+%26+Scalable+Solutions+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=F0ABFC&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Digital+Solutions+%F0%9F%9A%80;Building+Modern+Web+Applications+%F0%9F%92%BB;Creating+Smart+%26+Scalable+Solutions+%E2%9C%A8" />
 </p>
 
 <table align="center">
@@ -79,7 +81,7 @@
 <td width="50%" valign="top">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-Web%20Development-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/01-Web%20Development-1A1025?style=for-the-badge&labelColor=3B0764&color=1A1025" />
 </p>
 
 - 🌐 Develop responsive and interactive web applications.
@@ -90,7 +92,7 @@
 <td width="50%" valign="top">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/02-AI%20%26%20Technology-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/02-AI%20%26%20Technology-1A1025?style=for-the-badge&labelColor=BE185D&color=1A1025" />
 </p>
 
 - 🤖 Explore Artificial Intelligence and Machine Learning.
@@ -100,6 +102,11 @@
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img width="75%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090014,30:3B0764,65:BE185D,100:F0ABFC"/>
+</p>
+
 
 
 <!-- ================= TECHNICAL SKILLS ================= -->
