@@ -376,6 +376,9 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 
 <!-- GITHUB ANALYTICS CARDS -->
 
+
+<!-- DEVELOPER STATISTICS -->
+
 <h3 align="center">✦ DEVELOPER STATISTICS ✦</h3>
 
 <p align="center">
@@ -386,33 +389,39 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=1000&color=F0ABFC&center=true&vCenter=true&width=650&lines=%E2%9C%A8+MY+CODING+JOURNEY+%7C+EVERY+COMMIT+MATTERS+%E2%9C%A8;Building+Consistency+Through+Code;Learning+%7C+Creating+%7C+Growing;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Animated Developer Statistics" />
 </p>
 
-
-
 <!-- ROW 1 -->
 
 <p align="center">
   <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushreeelinas-builds&theme=github_dark" alt="GitHub Statistics"/>
+  &nbsp;
   <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sushreeelinas-builds&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
 </p>
 
-<!-- GOLDEN DIVIDER -->
+<!-- PURPLE PINK DIVIDER -->
 
 <p align="center">
-  <img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D4AF37"/>
+  <img width="65%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:090014,30:3B0764,65:BE185D,100:F0ABFC"/>
 </p>
 
 <!-- ROW 2 -->
 
 <p align="center">
   <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushreeelinas-builds&theme=github_dark" alt="Repositories by Language"/>
+  &nbsp;
   <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushreeelinas-builds&theme=github_dark" alt="Most Used Languages"/>
 </p>
 
-<!-- FOOTER -->
+<!-- ANIMATED FOOTER -->
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D4AF37" width="60%" />
+  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:090014,30:3B0764,65:BE185D,100:F0ABFC"/>
 </p>
+
+
+
+
+
 
 <!-- CONTRIBUTION STREAK -->
 
