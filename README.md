@@ -452,18 +452,23 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 
 <!-- CONNECT WITH ME -->
 
+
+<!-- CONNECT WITH ME -->
+
 <h2 align="center">🌐 CONNECT WITH ME</h2>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=500&lines=Let's+Connect+And+Create+Something+Amazing+%E2%9C%A8;Open+To+Opportunities+And+Collaboration+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2500&pause=900&color=F0ABFC&center=true&vCenter=true&width=550&lines=Let's+Connect+And+Create+Something+Amazing+%E2%9C%A8;Open+To+Opportunities+And+Collaboration+%F0%9F%9A%80;Together+We+Can+Build+Something+Great+%F0%9F%92%9C"
     alt="Animated Connect Heading"
   />
 </p>
 
+
 <p align="center">
-  <i>Have an idea, opportunity or project? Let's connect!</i>
+  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:090014,30:3B0764,65:BE185D,100:F0ABFC"/>
 </p>
+
 
 <!-- SOCIAL ICONS -->
 
@@ -490,10 +495,7 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 <!-- ANIMATED DIVIDER -->
 
 <p align="center">
-  <img
-    width="75%"
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1F4D,50:2563EB,100:8B5CF6"
-  />
+  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:090014,30:3B0764,65:BE185D,100:F0ABFC"/>
 </p>
 
 <!-- PROFILE VIEWS -->
