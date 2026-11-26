@@ -425,24 +425,28 @@ Modern hotel discovery interface featuring hotel exploration, filtering and resp
 
 <!-- CONTRIBUTION STREAK -->
 
+
+<!-- CONTRIBUTION STREAK -->
+
 <h3 align="center">🔥 CONTRIBUTION STREAK</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=400&lines=Consistency+Builds+Greatness+%F0%9F%9A%80;Keep+Coding.+Keep+Growing."
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&duration=2500&pause=900&color=F0ABFC&center=true&vCenter=true&width=450&lines=Consistency+Builds+Greatness+%F0%9F%9A%80;Keep+Coding.+Keep+Growing.;Every+Commit+Matters+%E2%9C%A8"
   alt="Animated Streak Heading"/>
 </p>
 
 <p align="center">
   <img
     width="55%"
-    src="https://streak-stats.demolab.com?user=sushreeelinas-builds&theme=transparent&hide_border=true&background=050B1D&ring=2563EB&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
+    src="https://streak-stats.demolab.com?user=sushreeelinas-builds&theme=transparent&hide_border=true&background=090014&ring=BE185D&fire=F0ABFC&currStreakLabel=F0ABFC&sideLabels=BE185D&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA"
     alt="GitHub Contribution Streak"
   />
 </p>
 
 <p align="center">
-  <img width="75%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1F4D,50:2563EB,100:8B5CF6"/>
+  <img width="75%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:090014,30:3B0764,65:BE185D,100:F0ABFC"/>
 </p>
+
 
 
 
